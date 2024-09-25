@@ -1,3 +1,6 @@
 [submodule "private"]
 	path = private
 	url = https://github.com/Ramla-r4/Aash.git
+[submodule "private1"]
+	path = private1
+	url = https://github.com/Ramla-r4/Aash.git
