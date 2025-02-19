@@ -21,20 +21,3 @@ Aash is a platform that provides **educational books, learning resources, and ca
 ✅ **Goal Setting & Progress Tracking** - Helps users stay on track in their learning journey  
 
 ---
-
-## 🚀 Installation  
-1.Clone the repository:             
-   git clone https://github.com/yourusername/Aash.git                    
-   cd Aash                         
-2.Create and activate a virtual environment:              
-   python -m venv venv                  
-   source venv/bin/activate  # On Windows: venv\Scripts\activate                   
-   
-3.Install dependencies:                      
-   pip install -r requirements.txt              
- 
-4.Run database migrations:              
-   python manage.py migrate             
-
-5.Start the development server:            
-  python manage.py runserver      
